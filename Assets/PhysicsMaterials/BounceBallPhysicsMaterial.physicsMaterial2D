@@ -9,6 +9,6 @@ PhysicsMaterial2D:
   m_Name: BounceBallPhysicsMaterial
   serializedVersion: 2
   friction: 0.4
-  bounciness: 0.7
+  bounciness: 0.8
   m_FrictionCombine: 2
   m_BounceCombine: 4

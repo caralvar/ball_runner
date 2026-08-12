@@ -13,5 +13,12 @@ MonoBehaviour:
   m_Name: Settings
   m_EditorClassIdentifier: Assembly-CSharp::Settings
   obstacleHeightSpawnRange: 10
-  obstacleMinDimension: 10
-  obstacleMaxDimension: 100
+  obstacleMinDimension: 2
+  obstacleMaxDimension: 7
+  obstacleSpeed: 3.76
+  xLeftBound: -15
+  xRightBound: 15
+  spawnRateAcceleration: 0.3
+  spawnRateDecreaseInterval: 20
+  startingSpawnRate: 4
+  minimumSpawnRate: 0.5
