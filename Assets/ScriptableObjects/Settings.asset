@@ -22,3 +22,7 @@ MonoBehaviour:
   spawnRateDecreaseInterval: 20
   startingSpawnRate: 4
   minimumSpawnRate: 0.5
+  playerJumpForce: 5
+  playerXPositionRightLimit: -6
+  playerXForce: 0.2
+  playerMaxXForce: 0.4

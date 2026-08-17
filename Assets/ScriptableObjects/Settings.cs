@@ -14,4 +14,8 @@ public class Settings : ScriptableObject
     public float spawnRateDecreaseInterval = 20.0f;
     public float startingSpawnRate = 10.0f;
     public float minimumSpawnRate = 0.5f;
+    public float playerJumpForce = 5.0f;
+    public int playerXPositionRightLimit = -7;
+    public float playerXForce = 0.2f;
+    public float playerMaxXForce = 1.0f;
 }
